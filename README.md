@@ -1,3 +1,5 @@
+# ML Statistical Models - Non-Linear Bases, Bias & Variance, Regularization
+
 This repository contains an experiment performed with Linear and Logistic Regression models to explore the use of Non-Linear basis functions to learn non-linear patterns data. The use of Gaussian bases different in values and quantities is explored, with bias and variance evaluations and visualizations. This experiment also visualizes the effects of different regularization techniques, specifically Lasso (L1) and Ridge (L2) regression.
 
 The models and relevant classes are included in `Models.py`, with various tunable hyperparameters passed through initializer arguments. 
